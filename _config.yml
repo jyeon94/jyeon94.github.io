@@ -1,0 +1,82 @@
+### Site Settings ###
+title               : 기본기를 쌓는 초보 코딩 블로그
+description         : >-
+                      "I turn coffee :coffee: into code,
+                      use tabs over spaces
+                      and never broke production."
+baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          :      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+remote_theme        : 
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  
+
+
+### Author Info ###
+author:
+  name              : Je Ho Yeon
+  image             : https://user-images.githubusercontent.com/57039464/79418345-5cdb2b00-7fef-11ea-95f2-cdd27be7167f.jpg
+  behance           : jyeon94
+# dribbble          : your_username
+  email             : jyeon9465@gmail.com
+# facebook          : your_username
+  github            : jyeon94
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+# linkedin          : your_username
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+
+
+### Posts ###
+permalink: /blog/:title
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+ 
+
+### Disqus ###
+disqus: jyeon94 # Your website Shortname on disqus
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false                                   # Set to true to enable disqus comments
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
