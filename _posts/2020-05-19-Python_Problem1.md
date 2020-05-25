@@ -1,11 +1,11 @@
 ---
 title: "종합문제1"
-tags:[Python,TIL]
+tags: [Python,TIL]
 style:
 color:
 description: First Part of Problem
 ---
-참고: [위키독스](https://wikidocs.net/17114)
+참고: [위키독스](https://wikidocs.net/17114)   
 
 ### Q1 문자열 바꾸기
 
