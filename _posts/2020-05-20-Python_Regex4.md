@@ -3,7 +3,7 @@ title: "정규표현식4"
 tags: [Python, TIL]
 style:
 color:
-description: Third Part of Regex
+description: Last Part of Regex
 ---
 
 참고:[위키독스](https://wikidocs.net/4309)   
