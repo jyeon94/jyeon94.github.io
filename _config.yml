@@ -26,7 +26,7 @@ nav_exclude:                                            # The following paths ar
 author:
   name              : Je Ho Yeon
   image             : https://user-images.githubusercontent.com/57039464/79418345-5cdb2b00-7fef-11ea-95f2-cdd27be7167f.jpg
-  behance           : jyeon94
+# behance           : jyeon94
 # dribbble          : your_username
   email             : jyeon9465@gmail.com
 # facebook          : your_username
@@ -34,7 +34,7 @@ author:
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username
-# linkedin          : your_username
+  linkedin          : je-ho-yeon-72770b132
 # medium            : your_username
 # soundcloud        : your_username
 # spotify           : your_username
@@ -58,7 +58,7 @@ collections:
  
 
 ### Disqus ###
-disqus: jyeon94 # Your website Shortname on disqus
+disqus: "jyeon94" # Your website Shortname on disqus
 
 
 ### Defaults for collections ###
