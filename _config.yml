@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : 기본기를 쌓는 초보 코딩 블로그
 description         : >-
-                      "I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production."
+                      "Preparing to be Data Analyst"
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          :      # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : 
