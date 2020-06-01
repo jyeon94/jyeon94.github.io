@@ -1,0 +1,7 @@
+---
+name: 1인가구와 유기동물
+tools: [R,R_MARKDOWN]
+image:
+description: 1인가구의 증가가 유기동물의 증가와 상관성이 있는가?
+external_url: https://github.com/jyeon94/jyeon94.github.io/blob/master/_projects/project3.html
+---
