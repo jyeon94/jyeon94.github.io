@@ -2,6 +2,6 @@
   percentage: 90
   color: dark
   
- - name: Github
-   percentage: 55
-   color: primary 
+- name: Github
+  percentage: 55
+  color: primary 
