@@ -8,4 +8,4 @@
  
 - name: SQL
   percentage: 55
-  color: light
+  color: primary

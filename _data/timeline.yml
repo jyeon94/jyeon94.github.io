@@ -1,17 +1,24 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, West Texas A&M
+  from: 2016
+  to: 2017
+  description: 
 
-- title: Software Engineer, Google, UK
+- title: Student, University of Minnesota Twin Cities
+  from: 2017
+  to: 2019
+  description:   
+
+- title: Business Analyst Intern, Name Coach
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: 2018
+  description:
+
+- title: Vice President, AdWorld, University of Minnesota Twin Cities
+  from: 2018
+  to: 2019
+
+- title: Student, Big Data Analyst Training Course Utilizing Public Data
+  from: 2019
+  to: 2019
+  description: 
+  
