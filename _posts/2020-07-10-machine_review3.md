@@ -28,10 +28,9 @@ description: 나성호 강사님 강의안 복습
 
 ##### 혼동행렬(Confusion Matrix)
 
-<img width="166" alt="주석 2020-07-13 115357" src="https://user-images.githubusercontent.com/57039464/87266220-af00ef00-c4ff-11ea-8a85-6d250a84cf66.png">
+<img width="166" alt="주석 2020-07-13 115357" src="https://user-images.githubusercontent.com/57039464/87270536-5cc5cb00-c50b-11ea-9f86-f47cf2f07816.png">
 
-Positive는 분석가가 관심을 갖는 범주로 지정한다 ex) '대출연체', '고객 이탈'
-
+- Positive는 분석가가 관심을 갖는 범주로 지정한다 ex) '대출연체', '고객 이탈'
 - TP: 모형이 긍정이라고 예측했고 실제값과 같은 건수
 - FP: 모형이 긍정이라고 예측했지만 실제값과 다른 건수
 - FN: 모형이 부정이라고 예측했지만 실제값과 다른 건수 -> 의료에선 최대한 줄어야함(암인데 암이 아니라고 판정)
@@ -66,7 +65,7 @@ Positive는 분석가가 관심을 갖는 범주로 지정한다 ex) '대출연�
 
 ##### ROC 곡선
 
-![Receiver-operating-characteristic-ROC-curve-of-circulating-free-DNA-between-cancer](https://user-images.githubusercontent.com/57039464/87269914-95fd3b80-c509-11ea-8f6d-138bdeed43f9.png)
+![Receiver-operating-characteristic-ROC-curve-of-circulating-free-DNA-between-cancer](https://user-images.githubusercontent.com/57039464/87270517-4d468200-c50b-11ea-82b3-3e46cc147992.png)
 
 - ROC 곡선은 X축에 1-특이도(FPR)를 기준으로 놓고 분류모형의 성능을 그린 그래프이다
 - 분류모형이 성능이 우수할수록 "민감도"와 "특이도가" 동시에 높다
