@@ -34,4 +34,13 @@ description: 나성호 강사님 강의안 복습
 - 회귀모형의 성능을 평가하는 지표는 여러 개이지만, 대체로 비슷한 결과를 얻게 되므로 한 가지 지표를 정하여 사용하면 된다
 
 #### 회귀모형의 서능 평가 지표 (4가지)
-- MSE (Mean Squared Error): $$1/n \sum_{i=1}^n(yi-yi)^2$$
+- MSE (Mean Squared Error): 오차 제곱합을 전체 건수로 나눈 평균이다
+	- MSE = $$1/n \sum_{i=1}^n(yi-\hat{yi})^2$$
+- RMSE (Root Mean Squared Error): MSE의 양의 제곱근. 오차와 척도를 맞춘것
+	-  RMSE = $$\sqrt{1/n \sum_{i=1}^n(yi-\hat{yi})^2}$$
+- MAE(Mean Absolute Error): 오차의 절대값을 더한 후 건수로 나눈 평균
+	-  MAE = $$1/n\sum_{i=1}^n|yi-\hat{yi}|$$
+- MAPE(Mean Absolute Percentage Error): 오차의 절대값을 실제값으로 나눈 비율의 평균
+	- MAPE = $$1/n\sum_{i=1}^n|yi-\hat{yi}|/|yi|$$
+
+분류모형의 성능평가는 내용이 많으므로 다음 포스트에 올리겠습니다.
