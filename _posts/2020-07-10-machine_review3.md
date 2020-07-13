@@ -4,7 +4,6 @@ tags: [R, TIL]
 style:
 color:
 description: 나성호 강사님 강의안 복습
-
 ---
 
 ### 분류모형의 성능평가
@@ -30,6 +29,7 @@ description: 나성호 강사님 강의안 복습
 ##### 혼동행렬(Confusion Matrix)
 
 <img width="166" alt="주석 2020-07-13 115357" src="https://user-images.githubusercontent.com/57039464/87266220-af00ef00-c4ff-11ea-8a85-6d250a84cf66.png">
+
 Positive는 분석가가 관심을 갖는 범주로 지정한다 ex) '대출연체', '고객 이탈'
 
 - TP: 모형이 긍정이라고 예측했고 실제값과 같은 건수
