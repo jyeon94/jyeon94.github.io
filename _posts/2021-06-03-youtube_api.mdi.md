@@ -1,10 +1,9 @@
-
 ---
-title: "유튜브 API를 활용한 경돼님 채널 크롤링"
-tags: [Blog,Python]
+title: "유튜브 API를 활용한 경돼님 채널 정보 수집"
+tags: [Blog,]
 style:
 color:
-description: 경돼님 채널 정보를 크롤링하기 위해 API 활용
+description: 스터디에서 활용할 정보 유튜브 API를 활용하여 수집
 ---
 
 [참고1](https://yobro.tistory.com/193?category=793224) 
