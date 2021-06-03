@@ -5,7 +5,6 @@ tags: [Blog,Python]
 style:
 color:
 description: 경돼님 채널 정보를 크롤링하기 위해 API 활용
-
 ---
 
 [참고1](https://yobro.tistory.com/193?category=793224) 
