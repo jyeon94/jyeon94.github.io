@@ -1,6 +1,6 @@
 ---
 title: "유튜브 API를 활용한 경돼님 채널 정보 수집"
-tags: [Blog,]
+tags: [Blog,Python]
 style:
 color:
 description: 스터디에서 활용할 정보 유튜브 API를 활용하여 수집
