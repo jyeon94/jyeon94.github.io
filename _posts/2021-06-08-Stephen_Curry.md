@@ -1,12 +1,9 @@
-
 ---
-
 title: "NBA API를 활용한 스테판 커리 슛 데이터 추출 및 대시보드 시각화"
 tags: [Blog,Python,Tableau]
 style:
 color:
 description: TBWX 마지막 과제를 위한 데이터 수집 및 대시보드 시각화
-
 ---
 
 ### NBA API를 활용하여 스테판 커리 20/21 시즌 슛 정보 가져오기
