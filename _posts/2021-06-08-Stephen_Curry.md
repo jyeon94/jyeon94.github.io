@@ -19,8 +19,8 @@ import json
 import pandas as pd
 ```
 
-#### FGA는 슛 시도, team_id = 0으로 불러올시 플레이어의 전체 정보를 불러올 수 있습니다. 
-#### 커리의 player id는 201939입니다. season은 2020-21로 설정 후 정규 시즌만 불러옵니다
+##### FGA는 슛 시도, team_id = 0으로 불러올시 플레이어의 전체 정보를 불러올 수 있습니다. 
+##### 커리의 player id는 201939입니다. season은 2020-21로 설정 후 정규 시즌만 불러옵니다
 
 
 ```python
@@ -35,7 +35,7 @@ response = shotchartdetail.ShotChartDetail(
 content = json.loads(response.get_json())
 ```
 
-#### 불러온 정보를 데이터 프레임화 합니다
+##### 불러온 정보를 데이터 프레임화 합니다
 
 
 ```python
@@ -46,7 +46,7 @@ df = pd.DataFrame(rows)
 df.columns = headers
 ```
 
-#### TBWX 커뮤니티의 마지막 과제(수료를 위해 과제 마무리가 필요하여 이 데이터를 활용하였습니다)
+##### TBWX 커뮤니티의 마지막 과제(수료를 위해 과제 마무리가 필요하여 이 데이터를 활용하였습니다)
 
 
 ```python
