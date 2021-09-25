@@ -18,7 +18,7 @@ from oauth2client.tools import argparser
 import pandas as pd
 ```
 
-#### 팀원분이 해당 동영상의 url을 전달주셔서 url에서 videoId만 추출하여 사용하였습니다.
+#### 팀원분이 해당 동영상의 url을 전달주셔서 url에서 videoId만 추출하여 사용하였습니다
 
 
 ```python
