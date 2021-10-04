@@ -1,7 +1,2 @@
-<div align="center">
-    <h1>portfolYOU</h1>
-    <i>A beautiful portfolio Jekyll theme that works with GitHub Pages.</i>
-    <br><br>
-    <img src="screenshot.gif">
-    <sub><sup>© 2019 portfolYOU, licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
-</div>
+**안녕하세요** <br/>
+공부한것을 정리해보기 위해 생성한 블로그입니다.
