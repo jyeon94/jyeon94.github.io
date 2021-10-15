@@ -85,7 +85,7 @@ sns.countplot(data=df,x="Churn")
 ![churn](https://user-images.githubusercontent.com/57039464/79299476-1d450e00-7f1f-11ea-801c-f8d60d1e4d2b.png)
 
 ```python
-# 'tenure', 'MonthlyCharges', 'TotalCharges' 를 이탈률에 따라 pairplot 으로 그립니다.
+# 'tenure', 'MonthlyCharges', 'TotalCharges' 를 이탈률에 따라 pairplot 으로 그립니다
 sns.pairplot(df[['tenure', 'MonthlyCharges', 'TotalCharges' ,'Churn']],hue='Churn')
 ```
 ![pair](https://user-images.githubusercontent.com/57039464/79230482-a0268400-7e9f-11ea-8cca-f1cdc11a7230.png)
